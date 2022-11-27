@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kevin Chia
   introTitle: "**Kevin Chia** System Status"
-  introMessage: "[Kevin Chia](https://kevchia.com){:target="_blank"}  His Offical Website"
+  introMessage: "[Kevin Chia](https://kevchia.com) His Offical Website"
   navbar:
     - title: Status
       href: /
