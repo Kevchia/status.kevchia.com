@@ -6,6 +6,8 @@ sites:
   - name: Kevchia.com
     url: https://kevchia.com/robots.txt
     icon: https://kevchia.com/images/favicon.ico
+  - name: demo.testfire.net
+    url: https://demo.testfire.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
