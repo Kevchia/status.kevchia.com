@@ -22,19 +22,19 @@
     "url": "https://demo.testfire.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo.testfire.net.ico",
     "slug": "demo-testfire-net",
-    "status": "down",
-    "uptime": "95.76%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "95.76%",
-    "time": 3504,
-    "timeDay": 5186,
-    "timeWeek": 3504,
-    "timeMonth": 3504,
-    "timeYear": 3504,
+    "status": "up",
+    "uptime": "94.91%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "94.91%",
+    "time": 2705,
+    "timeDay": 3560,
+    "timeWeek": 2705,
+    "timeMonth": 2705,
+    "timeYear": 2705,
     "dailyMinutesDown": {
-      "2023-05-04": 66
+      "2023-05-04": 80
     }
   }
 ]
