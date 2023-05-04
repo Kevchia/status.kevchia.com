@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 313,
+    "timeDay": 101,
     "timeWeek": 351,
     "timeMonth": 293,
     "timeYear": 319,
@@ -22,17 +22,19 @@
     "url": "https://demo.testfire.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo.testfire.net.ico",
     "slug": "demo-testfire-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 178,
+    "timeDay": 215,
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   }
 ]
