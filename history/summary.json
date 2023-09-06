@@ -6,17 +6,17 @@
     "slug": "kevchia-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 7874,
-    "timeWeek": 2312,
-    "timeMonth": 816,
-    "timeYear": 375,
+    "time": 480,
+    "timeDay": 11769,
+    "timeWeek": 4982,
+    "timeMonth": 1689,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2023-09-06": 6
+      "2023-09-06": 0
     }
   }
 ]
