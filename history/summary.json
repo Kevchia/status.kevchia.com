@@ -4,17 +4,17 @@
     "url": "https://kevchia.com/robots.txt",
     "icon": "https://kevchia.com/images/favicon.ico",
     "slug": "kevchia-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 123,
-    "timeWeek": 237,
-    "timeMonth": 239,
-    "timeYear": 222,
+    "time": 253,
+    "timeDay": 108,
+    "timeWeek": 219,
+    "timeMonth": 234,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   }
 ]
