@@ -5,15 +5,15 @@
     "icon": "https://kevchia.com/images/favicon.ico",
     "slug": "kevchia-com",
     "status": "up",
-    "uptime": "91.53%",
+    "uptime": "91.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.56%",
-    "time": 187,
-    "timeDay": 64,
-    "timeWeek": 122,
-    "timeMonth": 147,
+    "uptimeYear": "81.83%",
+    "time": 186,
+    "timeDay": 156,
+    "timeWeek": 121,
+    "timeMonth": 149,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-09-19": 561,
@@ -82,7 +82,6 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
       "2025-12-19": 24
     }
   }
