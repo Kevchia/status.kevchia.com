@@ -5,16 +5,16 @@
     "icon": "https://kevchia.com/images/favicon.ico",
     "slug": "kevchia-com",
     "status": "up",
-    "uptime": "92.12%",
+    "uptime": "92.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 173,
-    "timeWeek": 179,
+    "timeDay": 158,
+    "timeWeek": 174,
     "timeMonth": 193,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2025-12-19": 24
     }
